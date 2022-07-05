@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastRunTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/09/2021 22:04:00</Value>
+    </Setting>
+    <Setting Name="CleanStatusLogsInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TsdOdRXrNUveiuQrtIT5UjuyeTWDK1ttvkcnCmyWwBXWB9gDWaf08uhzK65u/O7OR4bhq30d50gaOIAI1/d2oikcLulWsfD/SfAOBiyWCJTYG2uCtsoJ//gEL8yvICklaCoZ96T+8A3o8p1Pq3L32udLPXo4jzxxz2IZNv8tLxWfu/3Pxlo2x0IYq4Atvydr</Value>
+    </Setting>
+    <Setting Name="BackupEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ClearEventLog" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ClearStatusDataLog" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">App</Value>
+    </Setting>
+    <Setting Name="NextRunUnit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="BackupFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\IATA-Tools 2010\LogCleaner\backup</Value>
+    </Setting>
+    <Setting Name="NextRunInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="CleanEventsLogsInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
